@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Clap\\Clap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|d:\\desktop\\clap\\clap\\assets\\scripts\\ui\\login\\uilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\uilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\ui\\ui\\uibooks\\uibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui\\uibooks\\uibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\manager\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|d:\\desktop\\clap\\clap\\assets\\common\\data\\itemdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\data\\itemdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\manager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\ui\\basic\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\basic\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\ui\\basic\\uiwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\basic\\uiwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\ui\\ui\\uibooks\\uibookmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui\\uibooks\\uibookmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\ui\\ui\\uibooks\\uibookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui\\uibooks\\uibookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\ui\\ui\\uideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui\\uideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\ui\\basic\\uiinputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\basic\\uiinputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|D:\\Desktop\\Clap\\Clap\\assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA8AC9-5140-1321-C8FB-9EC2B1DAC8B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UILogin.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Login\\UILogin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\UILogin.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Login\\UILogin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\UILogin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:10:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemDefine.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Common\\Data\\ItemDefine.cs",
+              "RelativeDocumentMoniker": "Assets\\Common\\Data\\ItemDefine.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Common\\Data\\ItemDefine.cs",
+              "RelativeToolTip": "Assets\\Common\\Data\\ItemDefine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:12:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\Manager\\BookManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\BookManager.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\Manager\\BookManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\BookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:31:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputBox.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Basic\\InputBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Basic\\InputBox.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Basic\\InputBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Basic\\InputBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:28:56.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\Manager\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\LoadingManager.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\Manager\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\LoadingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:42:14.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIBook.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIBooks\\UIBook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI\\UIBooks\\UIBook.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIBooks\\UIBook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI\\UIBooks\\UIBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:23:13.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIWindow.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Basic\\UIWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Basic\\UIWindow.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Basic\\UIWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Basic\\UIWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:56:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIBookItem.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookItem.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookItem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:17:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIBookmessage.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookmessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookmessage.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookmessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI\\UIBooks\\UIBookmessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:25:55.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIDeveloper.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIDeveloper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI\\UIDeveloper.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\UI\\UIDeveloper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI\\UIDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:53:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UIInputBox.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Basic\\UIInputBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Basic\\UIInputBox.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\UI\\Basic\\UIInputBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Basic\\UIInputBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:23:54.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ToolTip": "D:\\Desktop\\Clap\\Clap\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvyQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:10:23.288Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
